@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Why I Love Tenet"
+date:   2023-01-09 12:00:00 -0500
+categories: Movies
+---
+
+I love Tenet. Ever since I first saw Inception in 2014, I have been fascinated by Christopher Nolan's movies. In middle and high school (and this will certainly warrant another blog post), I figured how to roughly speak english backwards, so that reversing a recording of my speech roughly sounds like a normal person talking. So a Nolan movie revolving around the ability to invert objects in time? PUMP IT INTO MY VEINS!
+
+When I first saw Tenet in theatres I certainly enjoyed it, but had probably hyped the movie up too much in mind and left feeling a bit disappointed. A common critique of the movie is that the characters are thin and the plot convoluted. I certainly agreed with that; the whole ordeal with the Arepo painting and what exactly The Protagonist is trying to do in the first half of the movie is very confusing. 
+
+Since then, I have come to a new perspective on Tenet, which might be obvious for some but can be helpful to those who struggle with it: the confusion is intentional. Just about every character is lying to The Protagonist in some way. "Ignorance is our ammunition". It is perfectly valid to not like the complexity this introduces, but to someone like me who is happy to obsess over the movie, it made a recent rewatch much more enjoyable.
+
+But of course, the main thing to love about Tenet is obviously the inversion. It's built up during the first half of the movie, most notably with the Freeport fight, and then when Neil realizes:
+
+"It's not Estonian, it's backwards!"
+
+Followed by the sight of the inverted Sator's car making its way up the road in reverse, that's when you know you're in for a crazy ride the rest of the way. The 20 minute segment starting with the truck heist is the most interesting part of the movie to me, conceptually. 
+
+In particular, the interrogation scene is just so wonderfully written and filmed. Seeing reverse Sator speak his lines in reverse AFTER they're said is such a cool concept. Working out how the conversation plays out in both directions, including the slight disconnect from exact reversal when Sator shoots Kat, was very fascinating to me. 
+
+It captured my imagination so much that I felt a desire to create my own version of that sort of conversation between one forward and one inverted person. So here you go!
+
+[An Inverted Conversation][invconv]
+
+In conclusion, Tenet is a fantastic movie and I am very excited for Oppenheimer.
+
+ekuL
+
+Note: credit where credit's due, my new perspective was somewhat inspired by the Cinemawins videos on Tenet. [Here's part 1 of that, it's a great watch!][cwins]
+
+[invconv]: https://youtube.com/watch?v=06mAggu8vwY
+[cwins]: https://youtube.com/watch?v=wDbiTLLZVz8
+
+
+
