@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "The Many States of Georgia"
+date:   2023-01-23 12:00:00 -0500
+categories: Georgraphy
+---
+
+Consider the word "state". It can mean a lot of different things in the English language:
+
+1. An institution which governs a certain area
+2. A part of the USA
+3. The current happenings of something ("what is the current state of \[thing\]?")
+4. A classification of matter: solid, liquid, gas, plasma
+5. What is currently being held by a computer's memory
+6. The action of saying something
+
+Taking 5 of those 6 meanings, the question:
+
+"What does the state state about the state of the state of the state of Georgia?"
+
+Is something you can legitmately ask about the contents of a computer concerning the government of a US state. And it's fun to say, too!
+
+May your states be well, 
+
+Luke
