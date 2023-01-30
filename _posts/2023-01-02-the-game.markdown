@@ -2,7 +2,7 @@
 layout: post
 title:  "The Game by Ken Dryden - Book Review"
 date:   2023-01-02 16:48:02 -0500
-categories: Books
+categories: books
 ---
 Montreal is a legendary hockey team, having won 24 Stanley cups in its 113-year history. However, the last time they were truly the dominant team in the NHL was from 1976-79, where they won 4 consecutive cups. Ken Dryden was the starting goalie during that run. He had a very short hockey career of just 8 seasons, yet Montreal won it all 6 times during his stay. Ken Dryden is the author of the book I just completed, The Game.
 

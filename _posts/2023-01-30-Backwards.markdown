@@ -2,7 +2,7 @@
 layout: post
 title:  "What if English had consistent spelling? Yevethan English Part 1"
 date:   2023-01-30 12:00:00 -0500
-categories: Backwards, Language
+categories: backwards language
 ---
 
 This is intended to be the first part of a long series about how to speak backwards english. No, I'm not joking.
