@@ -9,9 +9,9 @@ This is intended to be the first part of a long series about how to speak backwa
 
 However, before I dive into that monster of a topic, I want to establish a relatively easy way I've come up with of writing out english phonetically, to accurately represent the pronounciation of backwards things. However, it can also be applied to normal english and get more consistent spellings that make more sense in tandem with what the speaker actually says. Know that this is far from perfect, but is good enough for my purposes.
 
-I realize it would be convenient if I had a name to call this spelling by. Completely arbitrary, I've decided to call it Yevethan English.
+I realize it would be convenient if I had a name to call this spelling by. Completely arbitrarily, I've decided to call it Yevethan English.
 
-The fundamental idea is that, except for a few consonant combinations like "ch", every letter is always pronounced the same. 
+The fundamental idea is that, except for a few consonant combinations like "th", every letter is always pronounced the same. 
 
 For the vowels, you always pronounce them as you would when the particular vowel is placed in the word b_t (I didn't explicitly design it this way, but it's a very good mnemonic). So:
 
@@ -37,6 +37,8 @@ C: since we already have K and Q making the hard K sound and S making the ssss s
 G: always hard GUH sound, **g**un
 
 J: soft juh sound, like in **j**uice
+
+Q: the sound normally written "ch". **Ch**ina, **ch**eat
 
 X: will make a soft z sound, like in confu**si**on
 

@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Yevethan English Part 2"
+date:   2023-02-06 6:00:00 -0500
+categories: language
+---
+
+
+So, if you've read part 1, we now have 30 sounds to work with in Yevethan English. Each of the 26 letters has its own unique sound, plus the 4 combinations: ng, th, dh, oo.
+
+Now we can talk about the remaining vowel sounds and how you can write these out in Yevethan. The principle here is that these vowel sounds are actually two sounds we already have, pronounced so quick in succession that to our brains it sounds like one sound. But if you say them slowly to yourself, you'll be able to make out the parts that compose them:
+
+AY (G**a**me) - ey (eh-y, y as a consonant)
+
+EE (**Ea**t) - iy (i-y, similar to above)
+
+EYE - ay (ah-y)
+
+OH - uw (uh-w, w consonant sound)\
+
+OO - iw (ih-w, similar to above)
+
+OI - uwy (this is OH and EE said very quickly together, uwiy works too)
+
+
+Bringing all this together, here is how you would write out some sample sentences in Yevethan:
+
+"This is Luke Chew's blog": dhis iz liwk qiwz blog
+
+"The quick brown fox jumped over the lazy dog": dhu kwik brawn foks jumpd uwvoor dhe leyziy dog
+
+"I boil water to make myself coffee": Ay buwiyl wotoor tiw meyk mayself cofiy
+
+This is my way of writing english sounds out consistently without having to learn the international phonetic alphabet. Thanks for reading!
+
+
+
