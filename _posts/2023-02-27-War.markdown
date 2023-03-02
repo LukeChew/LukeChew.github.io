@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "War Movies and the Desire to Live a Full Life"
-date:   2023-02-20 6:00:00 -0500
+date:   2023-02-27 6:00:00 -0500
 categories: personal
 ---
 
